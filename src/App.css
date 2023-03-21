@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+ 
+}
+
+.project {
+  text-align: center; 
+  background-image: url("");
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.about{
+  color: white;
+}
+
+
+.header{
+  color: white;
+}
+
+body{
+  background-image: url("https://t4.ftcdn.net/jpg/04/27/86/39/360_F_427863926_mPyhfWhQX8v1JeF8Hj1X1AekchvSGdZt.jpg");
+  background-size: 110%;
+}
